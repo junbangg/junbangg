@@ -15,5 +15,5 @@
 [![junbangg's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=olafo0o)](https://solved.ac/olafo0o)
 
 ## ⌨️ Tech Stack
-![Swift](https://img.shields.io/badge/Swift-007396?style=flat-square&logo=Swift&logoColor=orange)
-![iOS](https://img.shields.io/badge/iOS-007396?style=flat-square&logo=iOS&logoColor=blue)
+![Swift](https://img.shields.io/badge/Swift-#FF5349?style=flat-square&logo=Swift&logoColor=whilte)
+![iOS](https://img.shields.io/badge/iOS-007396?style=flat-square&logo=iOS&logoColor=white)
