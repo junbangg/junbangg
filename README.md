@@ -20,7 +20,7 @@
 
 [![junbangg's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=olafo0o)](https://solved.ac/olafo0o)
 
-## 🤍 Languages
+## 💙 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact)
 
