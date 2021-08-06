@@ -9,17 +9,20 @@
 * 방준석 (Jun-Suk Bang)
 * [CAU (중앙대학교)] 14학번 경영학부
 
+<div align=center>
+  
+  [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20blog-green?style=flat-square&logo=github&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
+  [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=github&link=https://junbangg.github.io)](https://junbangg.github.io)
+
+</div>
+
 ## 💻 Activities
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junbangg)](https://github.com/anuraghazra/github-readme-stats)
 
 [![junbangg's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=olafo0o)](https://solved.ac/olafo0o)
 
-<div align=center>
-  
-  [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20blog-green?style=flat-square&logo=github&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
 
-</div>
 
 ## ⌨️ Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-#FF5349?style=flat-square&logo=Swift&logoColor=whilte)
