@@ -20,6 +20,7 @@
 
 [![junbangg's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=olafo0o)](https://solved.ac/olafo0o)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact)
 
 
 ## ⌨️ Tech Stack
@@ -29,5 +30,5 @@
 ![R](https://img.shields.io/badge/R-lightgray?style=flat-square&logo=R&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact)
+
 
