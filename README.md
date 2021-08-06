@@ -16,4 +16,4 @@
 
 ## ⌨️ Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-#FF5349?style=flat-square&logo=Swift&logoColor=whilte)
-![iOS](https://img.shields.io/badge/iOS-007396?style=flat-square&logo=iOS&logoColor=white)
+!(https://img.shields.io/badge/iOS-007396?style=flat-square&logo=iOS&logoColor=white)
