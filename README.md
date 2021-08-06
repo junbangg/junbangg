@@ -28,3 +28,5 @@
 ![PYTHON](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=yellow)
 ![R](https://img.shields.io/badge/R-lightgray?style=flat-square&logo=R&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
