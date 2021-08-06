@@ -9,12 +9,9 @@
 * 방준석 (Jun-Suk Bang)
 * [CAU (중앙대학교)] 14학번 경영학부
 
-<div align=center>
-  
-  [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20blog-green?style=flat-square&logo=github&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
-  [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=github&link=https://junbangg.github.io)](https://junbangg.github.io)
+[![Naver Blog Badge](http://img.shields.io/badge/-Naver%20blog-green?style=flat-square&logo=github&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
+[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=github&link=https://junbangg.github.io)](https://junbangg.github.io)
 
-</div>
 
 ## 💻 Activities
 
