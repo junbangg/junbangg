@@ -14,6 +14,8 @@
 
 [![junbangg's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=olafo0o)](https://solved.ac/olafo0o)
 
+[![Naver Blog Badge](http://img.shields.io/badge/-Naver%20blog-green?style=flat-square&logo=github&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
+
 ## ⌨️ Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-#FF5349?style=flat-square&logo=Swift&logoColor=whilte)
 ![iOS](https://img.shields.io/badge/iOS-007396?style=flat-square&logo=_&logoColor=white)
