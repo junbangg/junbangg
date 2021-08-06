@@ -29,4 +29,5 @@
 ![R](https://img.shields.io/badge/R-lightgray?style=flat-square&logo=R&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact)]
+
