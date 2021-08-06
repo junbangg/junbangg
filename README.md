@@ -16,7 +16,7 @@
 
 ## 💻 Activities
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junbangg&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junbangg&show_icons=true&theme=tokyonight)
 
 [![junbangg's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=olafo0o)](https://solved.ac/olafo0o)
 
