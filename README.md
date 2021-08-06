@@ -20,10 +20,13 @@
 
 [![junbangg's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=olafo0o)](https://solved.ac/olafo0o)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact)
+
 
 
 ## ⌨️ Tech Stack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact)
+
 ![iOS](https://img.shields.io/badge/iOS-blue?style=flat-square&logo=_&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=yellow)
