@@ -25,6 +25,6 @@
 ## ⌨️ Tech Stack
 ![iOS](https://img.shields.io/badge/iOS-blue?style=flat-square&logo=_&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=yellow)
 ![R](https://img.shields.io/badge/R-lightgray?style=flat-square&logo=R&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
