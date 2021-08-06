@@ -16,13 +16,13 @@
 
 ## 💻 Activities
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junbangg&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junbangg&show_icons=true&theme=tokyonight)
 
 [![junbangg's baekjoon stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=olafo0o)](https://solved.ac/olafo0o)
 
 ## 🤍 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junbangg&layout=compact&show_icons=true&theme=tokyonight)
 
 
 ## ⌨️ Tech Stack
