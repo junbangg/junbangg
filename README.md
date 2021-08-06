@@ -5,7 +5,7 @@
 
 </div>
 
-## 💁🏻‍♂️ Profile
+## 🙋🏻‍♂️ Profile
 * 방준석 (Jun-Suk Bang)
 * 중앙대학교 / 경영학부
 * Currently working on PS & iOS dev
