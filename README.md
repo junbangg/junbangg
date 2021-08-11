@@ -7,7 +7,6 @@
 
 ## 🙋🏻‍♂️ Profile
 * 방준석 (Jun-Suk Bang)
-* 중앙대학교 / 경영학부
 * Currently working on PS & iOS dev
 
   [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20blog-green?style=flat-square&logo=github&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
