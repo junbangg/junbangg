@@ -9,9 +9,9 @@
 * 방준석 (Jun-Suk Bang)
 * Currently working on PS & iOS dev
 
-  [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
+  [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20Blog-brightgreen?style=flat-square&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-blue?style=flat-square&link=https://junbangg.github.io)](https://junbangg.github.io)
-[![velog Badge](http://img.shields.io/badge/-velog%20blog-blueviolet?style=flat-square&link=https://velog.io/@junbangg)](https://velog.io/@junbangg)
+[![velog Badge](http://img.shields.io/badge/-Velog%20Blog-blueviolet?style=flat-square&link=https://velog.io/@junbangg)](https://velog.io/@junbangg)
 
 
 
