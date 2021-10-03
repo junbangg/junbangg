@@ -11,7 +11,7 @@
 
   [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20blog-green?style=flat-square&logo=github&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=github&link=https://junbangg.github.io)](https://junbangg.github.io)
-[![velog Badge](http://img.shields.io/badge/-velog%20blog-green?style=flat-square&logo=github&link=https://velog.io/@junbangg)](https://velog.io/@junbangg)
+[![velog Badge](http://img.shields.io/badge/-velog%20blog-turqoise?style=flat-square&logo=github&link=https://velog.io/@junbangg)](https://velog.io/@junbangg)
 
 
 
