@@ -6,7 +6,6 @@
 </div>
 
 ## 🙋🏻‍♂️ Profile
-* 방준석 (Jun-Suk Bang)
 * Currently working on PS & iOS dev
 
   [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20Blog-brightgreen?style=flat-square&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
