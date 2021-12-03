@@ -8,9 +8,12 @@
 ## 🙋🏻‍♂️ Profile
 Currently studying iOS development
 
-  [![Naver Blog Badge](http://img.shields.io/badge/-Naver%20Blog-brightgreen?style=flat-square&link=https://blog.naver.com/wnstjr4620)](https://blog.naver.com/wnstjr4620)
-[![velog Badge](http://img.shields.io/badge/-Velog%20Blog-blueviolet?style=flat-square&link=https://velog.io/@junbangg)](https://velog.io/@junbangg)
-[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-blue?style=flat-square&link=https://junbangg.github.io)](https://junbangg.github.io)
+- 🧾[About Me](https://junbangg.github.io)
+- 📘[My Github Tech Blog](https://junbangg.github.io/blog/)
+- 📗[My Naver Tech Blog](https://blog.naver.com/wnstjr4620)
+
+
+
 
 
 
@@ -36,7 +39,6 @@ Currently studying iOS development
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=yellow)
 ![R](https://img.shields.io/badge/R-lightgray?style=flat-square&logo=R&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 
 
 
