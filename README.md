@@ -11,7 +11,6 @@ Currently studying iOS development
 - 🧾 [About Me](https://junbangg.github.io)
 - 📘 [My Github Tech Blog](https://junbangg.github.io/blog/)
 - 📗 [My Naver Tech Blog](https://blog.naver.com/wnstjr4620)
-- 📖 [My TIL](https://morning-ninja-53b.notion.site/9f36c3b7f6bc4cf78adfb9ce189f16e3?v=3ed041cf2c1d4f2abed46d4590df887e)
 
 
 
