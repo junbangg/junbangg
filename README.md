@@ -8,7 +8,7 @@
 ## 🙋🏻‍♂️ Profile
 Currently studying iOS development
 
-
+- 🧾 [About Me](https://junbangg.github.io)
 - 📘 [My Github Tech Blog](https://junbangg.github.io/blog/)
 - 📗 [My Naver Tech Blog](https://blog.naver.com/wnstjr4620)
 
