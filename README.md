@@ -8,7 +8,7 @@
 ## 🙋🏻‍♂️ Profile
 Currently studying iOS development
 
-- 🔧 [My Portfolio](https://morning-ninja-53b.notion.site/iOS-5bd7605a846142e287ad95676e89496c)
+- 🔧 [My Portfolio](https://junbangg.github.io/blog/)
 - 📘 [My Github Tech Blog](https://junbangg.github.io/blog/)
 - 📗 [My Naver Tech Blog](https://blog.naver.com/wnstjr4620)
 
