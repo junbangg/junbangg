@@ -6,6 +6,7 @@
 </div>
 
 ## 🙋🏻‍♂️ Profile
+Currently Studying iOS Development
 
 - 📘 [My Github Tech Blog](https://junbangg.github.io/blog/)
 - 📗 [My Naver Tech Blog](https://blog.naver.com/wnstjr4620)
