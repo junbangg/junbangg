@@ -7,7 +7,7 @@
 
 ## 🙋🏻‍♂️ Profile
 
-- 📘 [My Github Tech Blog](https://junbangg.github.io/blog/)
+- 📘 [My Tech Blog](https://junbangg.github.io/blog/)
 
 ## ✍️ My Blog Posts
 - [Swift의 Method Dispatch 파헤쳐보기 part 1](https://junbangg.github.io/swift/Method-Dispatch/)
